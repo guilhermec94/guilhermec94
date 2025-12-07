@@ -4,7 +4,7 @@
 
 ### About Me ✨
 
-- 💻 I enjoy **backend development**, especially Java & Spring  
+- 💻 I enjoy **backend development**
 - 🛠️ Interested in **DevOps** and **infrastructure**, and currently deepening my knowledge in both  
 - 🐳 I'm learning to enjoy working with **Docker**, Kubernetes, and automation  
 - 📚 I enjoy **reading**, especially **psychology**, **productivity**, and **suspense/thriller or horror books**  
