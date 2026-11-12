@@ -8,4 +8,4 @@
 
 ### My small blog, sometimes I write there...
 
-[**Tiny Steps Blog**](https://guilhermec94.github.io/tinysteps/posts/)
+[**Tiny Steps Blog**](https://guilhermec94.github.io/tinysteps/notes/)
